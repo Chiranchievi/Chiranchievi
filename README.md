@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chiranchievi
+- 👋 Hi, I’m Chiranchievi S
 - 👀 I’m interested in Machine Learning Domain
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
